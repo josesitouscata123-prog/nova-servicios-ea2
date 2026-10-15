@@ -32,4 +32,4 @@ es apoyo de aprendizaje y no añade un entregable práctico calificado al EF.
 * **Repositorio GitHub:** https://github.com/josesitouscata123-prog/portal-ti-resuelto
 * **Pull Request:** https://github.com/josesitouscata123-prog/portal-ti-resuelto/pull/1
 * **Preview URL:** https://josesitouscata123-prog.github.io/portal-ti-resuelto/ | SHA: `cdd2353f87931e1b73090183c055d6d0a2493c14`
-* **Production URL:** https://josesitouscata123-prog.github.io/portal-ti-resuelto/ | SHA: `2c2bd415a80ed7174f95bc62a717a88bdd3e8986`
+* **Production URL:** https://josesitouscata123-prog.github.io/portal-ti-resuelto/ | SHA: `139c90d2ace4f634ed8dcb01ca341f8ffbf20111git`
