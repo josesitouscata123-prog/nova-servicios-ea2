@@ -25,3 +25,11 @@ repo ___; PR ___; Preview/SHA ___; producción/SHA ___; incidencias externas ___
 Continuidad hasta la semana 7: corregir observaciones, practicar revisión de HTML/CSS/JS,
 modelo, integración, SEO y flujo de publicación. El EF solicitado es TEÓRICO; este proyecto
 es apoyo de aprendizaje y no añade un entregable práctico calificado al EF.
+
+
+
+## Enlaces
+* **Repositorio GitHub:** https://github.com/josesitouscata123-prog/portal-ti-resuelto
+* **Pull Request:** https://github.com/josesitouscata123-prog/portal-ti-resuelto/pull/1
+* **Preview URL:** https://josesitouscata123-prog.github.io/portal-ti-resuelto/ | SHA: `cdd2353f87931e1b73090183c055d6d0a2493c14`
+* **Production URL:** https://josesitouscata123-prog.github.io/portal-ti-resuelto/ | SHA: `[TU_SHA_DE_PRODUCCION]`
