@@ -19,8 +19,7 @@ El workflow incluye checks básicos; para bloquear merge hay que configurar chec
 en protección de rama o ruleset. El workflow solo no impone esa restricción.
 
 Entrega: ZIP sin .git/node_modules/.env, repo, PR, Preview, producción, SHA de cada despliegue.
-Plantilla: autor ___; base recibida ___; cambios ___; herramientas y uso IA ___;
-repo ___; PR ___; Preview/SHA ___; producción/SHA ___; incidencias externas ___.
+Plantilla: autor ___; base recibida ___; cambios ___; repo ___; PR ___; Preview/SHA ___; producción/SHA ___; incidencias externas ___.
 
 Continuidad hasta la semana 7: corregir observaciones, practicar revisión de HTML/CSS/JS,
 modelo, integración, SEO y flujo de publicación. El EF solicitado es TEÓRICO; este proyecto
