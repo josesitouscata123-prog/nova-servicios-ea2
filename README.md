@@ -32,4 +32,4 @@ es apoyo de aprendizaje y no añade un entregable práctico calificado al EF.
 * **Repositorio GitHub:** https://github.com/josesitouscata123-prog/nova-servicios-ea2
 * **Pull Request:** https://github.com/josesitouscata123-prog/nova-servicios-ea2/pull/1
 * **Preview URL:** https://josesitouscata123-prog.github.io/nova-servicios-ea2/ | SHA: `139c90d2ace4f634ed8dcb01ca341f8ffbf20111`
-* **Production URL:** https://josesitouscata123-prog.github.io/nova-servicios-ea2/ | SHA: `[AQUÍ_VA_EL_SHA_DE_PRODUCCIÓN_FINAL]`
+* **Production URL:** https://josesitouscata123-prog.github.io/nova-servicios-ea2/ | SHA: `[022628f9daacb15996db004be27fc5975172b818git]`
