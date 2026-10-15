@@ -1,0 +1,26 @@
+/* R3: Animación de confirmación para actualización de estado */
+.ea2-actualizada {
+    animation: flash-update 1s ease-out;
+    border-radius: 4px;
+}
+
+@keyframes flash-update {
+    0% {
+        background-color: #d4edda;
+        transform: scale(1.02);
+    }
+    100% {
+        background-color: transparent;
+        transform: scale(1);
+    }
+}
+
+/* Desactivar movimiento si el usuario configuró movilidad reducida */
+@media (prefers-reduced-motion: reduce) {
+    .ea2-actualizada {
+        animation: none;
+        background-color: #d4edda;
+        transition: none;
+        transform: none;
+    }
+} 
