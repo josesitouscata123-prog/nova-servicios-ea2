@@ -29,7 +29,7 @@ es apoyo de aprendizaje y no añade un entregable práctico calificado al EF.
 
 
 ## Enlaces
-* **Repositorio GitHub:** https://github.com/josesitouscata123-prog/portal-ti-resuelto
-* **Pull Request:** https://github.com/josesitouscata123-prog/portal-ti-resuelto/pull/1
-* **Preview URL:** https://josesitouscata123-prog.github.io/portal-ti-resuelto/ | SHA: `cdd2353f87931e1b73090183c055d6d0a2493c14`
-* **Production URL:** https://josesitouscata123-prog.github.io/portal-ti-resuelto/ | SHA: `139c90d2ace4f634ed8dcb01ca341f8ffbf20111git`
+* **Repositorio GitHub:** https://github.com/josesitouscata123-prog/nova-servicios-ea2
+* **Pull Request:** https://github.com/josesitouscata123-prog/nova-servicios-ea2/pull/1
+* **Preview URL:** https://josesitouscata123-prog.github.io/nova-servicios-ea2/ | SHA: `139c90d2ace4f634ed8dcb01ca341f8ffbf20111`
+* **Production URL:** https://josesitouscata123-prog.github.io/nova-servicios-ea2/ | SHA: `[AQUÍ_VA_EL_SHA_DE_PRODUCCIÓN_FINAL]`
